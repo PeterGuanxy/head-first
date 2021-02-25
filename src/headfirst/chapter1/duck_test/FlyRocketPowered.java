@@ -1,4 +1,4 @@
-package chapter1.duck_test;
+package headfirst.chapter1.duck_test;
 
 /**
  * description

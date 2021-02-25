@@ -1,4 +1,4 @@
-package chapter1.duck_test;
+package headfirst.chapter1.duck_test;
 
 /**
  * ** Created by peter.guan on 2019/8/9.
@@ -7,6 +7,6 @@ package chapter1.duck_test;
  */
 public interface FlyBehavior {
 
-  public void fly();
+  void fly();
 
 }
